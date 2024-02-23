@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+.styling{
+Max-width: Around 600px;
+Margin: Approximately 10px;
+Padding: Around 15px;
+Border-left: 8px solid green;
+Background-color: #f8fffe;
+Font-weight: Bold;
+}
